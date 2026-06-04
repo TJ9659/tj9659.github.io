@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "institution": "Universiti Tunku Abdul Rahman (UTAR)",
+    "degree": "Bachelor of Software Engineering (Honours)",
+    "duration": "Oct 2022 - Oct 2025",
+    "metrics": [
+      { "label": "CGPA", "value": "3.2915 / 4.00" },
+      { "label": "Honors", "value": "President's List (Oct 2023 Semester)" }
+    ],
+    "highlights": [
+      "Focused on Full-Stack Web Development, Architecture Design, and efficient Database Systems.",
+      "Engineered diverse academic projects using Java, PHP (Laravel), JavaScript/TypeScript (React), Python, HTML, and CSS.",
+      "Applied efficient database indexing and normalization across relational databases, including MySQL.",
+      "Designed and developed a cross-platform Lost and Found mobile application for a Final Year Project.",
+      "Implemented clean code architectures and design patterns to ensure modular and maintainable codebases.",
+      "Proficient in networking fundamentals including TCP/IP, HTTP/HTTPS, and DNS protocols."
+    ]
+  },
+  {
+    "id": 2,
+    "institution": "Universiti Tunku Abdul Rahman (UTAR)",
+    "degree": "Foundation in Arts (Management and Accountancy Stream)",
+    "duration": "Oct 2021 - Oct 2022",
+    "metrics": [{ "label": "CGPA", "value": "3.0932 / 4.00" }],
+    "highlights": [
+      "Established a strong technical baseline in structured logic, quantitative analysis, and mathematics.",
+      "Developed analytical problem-solving skills through core courses in Business Accounting and Economics.",
+      "Successfully transitioned quantitative principles from accountancy into core software engineering logic."
+    ]
+  }
+]

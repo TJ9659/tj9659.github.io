@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "company": "Exact Automation Sdn Bhd",
+    "title": "Intern Software Engineer",
+    "duration": "Oct 2024 - Jan 2025",
+    "technologies": [
+      { "label": "Framework", "value": "Next.js" },
+      { "label": "Frontend", "value": "React.js" },
+      { "label": "Backend", "value": "Node.js" },
+      { "label": "Database", "value": "MongoDB (Mongoose)" }
+    ],
+    "highlights": [
+      "Owned the frontend UI development and built a comprehensive blog module using Next.js, Node.js, and MongoDB, leveraging Mongoose schemas for secure data modeling and integrating external APIs.",
+      "Participated in biweekly sprint meetings and integrated user feedback to continuously iterate, refine, and deploy new platform features.",
+      "Conducted manual testing and collaborated with the team to validate database schemas, ensuring data integrity and strict alignment with backend API expectations.",
+      "Collaborated in an Agile environment to author technical documentation and facilitate system handovers, ensuring seamless integration of modules into the parent infrastructure."
+    ]
+  }
+]

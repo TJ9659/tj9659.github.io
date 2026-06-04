@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "title": "MarketSense",
+    "description": "A full-stack stock market analytics platform featuring an AI-driven sentiment analysis engine and custom Caffeine caching strategies for optimized real-time data retrieval.",
+    "tags": ["Spring Boot", "React", "Gemini AI", "JWT", "PostgreSQL"],
+    "image": "images/projects/marketsense.png",
+    "link": "https://github.com/TJ9659/stock-market-app"
+  },
+  {
+    "id": 2,
+    "title": "SwiftSpend Wallet",
+    "description": "A digital wallet MVP featuring double-entry ledger logic and custom high-precision error validation to ensure financial data integrity.",
+    "tags": ["Spring Boot", "Vue 3", "JWT", "PostgreSQL"],
+    "image": "images/projects/swiftspend.png",
+    "link": "https://github.com/TJ9659/Fullstack-Digital-Wallet-MVP"
+  },
+  {
+    "id": 3,
+    "title": "AI Lost & Found Mobile Application (Final Year Project)",
+    "description": "A cross-platform mobile solution using computer vision and NLP-driven semantic search to intelligently match similar items across the platform.",
+    "tags": [
+      "Laravel",
+      "React Native",
+      "Google Vision AI",
+      "Natural Language Processing",
+      "JWT",
+      "MySQL"
+    ],
+    "image": "images/projects/utarify.png",
+    "link": "https://github.com/TJ9659/lost-and-found-mobile-application"
+  },
+  {
+    "id": 4,
+    "title": "Evently",
+    "description": "An event-booking system engineered with complex time-constraint logic to manage concurrent scheduling and future availability.",
+    "tags": ["Laravel", "Vue.js", "Inertia.js", "Laravel Sanctum", "MySQL"],
+    "image": "images/projects/evently.gif",
+    "link": "https://github.com/TJ9659/mini-online-event-platform"
+  },
+  {
+    "id": 5,
+    "title": "VantagePL Analytics",
+    "description": "A full-stack platform built to visualize Premier League performance data, country-specific metrics, and player statistics. Scraped data using Python from FBRef and integrated into a PostgreSQL database.",
+    "tags": ["Spring Boot", "React", "Python", "PostgreSQL"],
+    "image": "images/projects/vantagePL.png",
+    "link": "https://github.com/TJ9659/premier-league-stats-fullstack"
+  },
+  {
+    "id": 6,
+    "title": "Insurance Quotation System",
+    "description": "A specialized quotation engine utilizing BigDecimal for high-precision premium calculations and automated risk assessment logic. Allows for CSV file uploads for efficient data processing.",
+    "tags": ["Spring Boot", "React", "PostgreSQL"],
+    "image": "images/projects/lms-quotation-system.png",
+    "link": "https://github.com/TJ9659/Full-stack-Digital-Quotation-Engine"
+  },
+  {
+    "id": 7,
+    "title": "Job Board Platform",
+    "description": "A recruitment portal featuring PDF resume upload, applicant tracking, and efficient database indexing for optimized job discovery.",
+    "tags": ["Laravel", "Vue.js", "JWT", "MySQL"],
+    "image": "images/projects/hirevibe.png",
+    "link": "https://github.com/TJ9659/mini-job-board-application"
+  },
+  {
+    "id": 8,
+    "title": "Simple Rock Paper Scissors Game",
+    "description": "A simple rock-paper-scissors game built with HTML, CSS, and JavaScript to practice frontend development skills through the Odin Project.",
+    "tags": ["HTML", "CSS", "JavaScript"],
+    "image": "images/projects/rock-paper-scissors.png",
+    "link": "https://github.com/TJ9659/RockPaperScissors"
+  }
+]

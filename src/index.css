@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Geist;
+  src: url("../src/assets/fonts/Geist-VariableFont_wght.ttf");
+}
+
+@import "tailwindcss";
+
+@theme {
+  --geist-font-family: Geist, "sans-serif";
+}
+
+:root {
+  font-family: Geist, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  background-color: #f7f5f1;
+}
