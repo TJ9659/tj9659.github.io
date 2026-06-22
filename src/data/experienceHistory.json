@@ -1,6 +1,20 @@
 [
   {
     "id": 1,
+    "company": "eAuto Sdn Bhd",
+    "title": "Software Engineer",
+    "duration": "July 2026 - Present",
+    "technologies": [
+      { "label": "Frontend", "value": "Angular" },
+      { "label": "Backend", "value": "Spring Boot" },
+      { "label": "Database", "value": "Relational" }
+    ],
+    "highlights": [
+     "Details to be updated following official onboarding and initial project assignment."
+    ]
+  },
+  {
+    "id": 2,
     "company": "Exact Automation Sdn Bhd",
     "title": "Intern Software Engineer",
     "duration": "Oct 2024 - Jan 2025",

@@ -10,9 +10,10 @@ export default function Contact() {
       <div className="grid grid-cols-1 md:grid-cols-12 gap-8">
         <div className="md:col-span-5 bg-white p-8 rounded-2xl border border-gray-200 flex flex-col justify-between shadow-xs">
           <p className="text-gray-600 text-sm leading-relaxed">
-            I am actively seeking full-time opportunities as a Software
-            Engineer. The best way to reach me is through LinkedIn, where I am
-            highly responsive.
+            If you have any questions, just want to connect, or have a quick
+            coffee chat, the best way to reach me is through LinkedIn, where I
+            am highly responsive. Feel free to drop a message or connection
+            request!
           </p>
         </div>
 
@@ -27,7 +28,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="w-full inline-flex items-center justify-between bg-[#0077B5] text-white rounded-xl py-3 px-6 text-sm font-semibold hover:bg-[#006297] transition-colors cursor-pointer"
           >
-            <span>Message on LinkedIn</span>
+            <span>Connect on LinkedIn</span>
             <ExternalLink size={16} />
           </a>
 

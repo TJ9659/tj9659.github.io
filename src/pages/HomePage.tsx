@@ -1,5 +1,4 @@
-
-export default function Home () {
+export default function Home() {
   const underlineBase =
     "relative inline-block font-normal after:absolute after:bottom-0 after:left-0 after:h-[3px] after:w-full after:rounded-full";
 
@@ -31,6 +30,10 @@ export default function Home () {
               Node.js
             </span>
             ,{" "}
+            <span className={`${underlineBase} after:bg-[#DD0031]`}>
+              Angular
+            </span>
+            ,{" "}
             <span className={`${underlineBase} after:bg-[#61DAFB]`}>React</span>
             , <span className={`${underlineBase} after:bg-[#41B883]`}>Vue</span>
             ,{" "}
@@ -59,7 +62,7 @@ export default function Home () {
             >
               🇲🇾 Malaysia
             </span>
-            , and am looking for a full-time position as a Software Engineer.
+            , and am currently working as a Software Engineer.
           </h2>
 
           <h2 className="">
@@ -87,4 +90,4 @@ export default function Home () {
       </div>
     </div>
   );
-};
+}
