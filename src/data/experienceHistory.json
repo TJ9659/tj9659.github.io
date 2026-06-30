@@ -6,11 +6,9 @@
     "duration": "July 2026 - Present",
     "technologies": [
       { "label": "Frontend", "value": "Angular" },
-      { "label": "Backend", "value": "Spring Boot" },
-      { "label": "Database", "value": "Relational" }
+      { "label": "Backend", "value": "Spring Boot" }
     ],
     "highlights": [
-     "Details to be updated following official onboarding and initial project assignment."
     ]
   },
   {
